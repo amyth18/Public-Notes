@@ -10,6 +10,11 @@
 
 # NLP/LLMs
 
+## Books
+1. https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/
+2. https://www.manning.com/books/build-a-large-language-model-from-scratch
+3. https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/
+   
 # Speech AI
 
 # AI Engineering
