@@ -16,6 +16,9 @@
 2. https://www.manning.com/books/build-a-large-language-model-from-scratch
 3. https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/
 4. https://web.stanford.edu/~jurafsky/slp3/
+
+## Articles
+1. https://towardsdatascience.com/the-large-language-model-course-b6663cd57ceb/
    
 # Speech AI
 
