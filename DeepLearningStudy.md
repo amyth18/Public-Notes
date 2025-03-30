@@ -3,6 +3,9 @@
 1. https://www.coursera.org/specializations/deep-learning
 2. https://www.cse.iitm.ac.in/~miteshk/CS6910.html
 3. https://introtodeeplearning.com/
+4. https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
+5. https://stanford-cs324.github.io/winter2022/
+6. https://2023.cmu-llms.org/calendar/
 
 ## Books
 1. https://www.bishopbook.com/
