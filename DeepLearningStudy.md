@@ -6,6 +6,7 @@
 4. https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
 5. https://stanford-cs324.github.io/winter2022/
 6. https://2023.cmu-llms.org/calendar/
+7. https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
 
 ## Books
 1. https://www.bishopbook.com/
