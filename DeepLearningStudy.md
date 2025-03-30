@@ -3,10 +3,6 @@
 1. https://www.coursera.org/specializations/deep-learning
 2. https://www.cse.iitm.ac.in/~miteshk/CS6910.html
 3. https://introtodeeplearning.com/
-4. https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
-5. https://stanford-cs324.github.io/winter2022/
-6. https://2023.cmu-llms.org/calendar/
-7. https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
 
 ## Books
 1. https://www.bishopbook.com/
@@ -20,6 +16,12 @@
 2. https://www.manning.com/books/build-a-large-language-model-from-scratch
 3. https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/
 4. https://web.stanford.edu/~jurafsky/slp3/
+   
+## LLM Courses
+1. https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
+2. https://stanford-cs324.github.io/winter2022/
+3. https://2023.cmu-llms.org/calendar/
+4. https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
 
 ## Articles
 1. https://towardsdatascience.com/the-large-language-model-course-b6663cd57ceb/
