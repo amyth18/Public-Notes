@@ -31,5 +31,7 @@
 1. https://towardsdatascience.com/the-large-language-model-course-b6663cd57ceb/
    
 # Speech AI
-
+### Course
+### Books
+1. https://speechprocessingbook.aalto.fi/
 # ML Engineering
