@@ -9,6 +9,9 @@
 1. https://www.bishopbook.com/
 2. https://mitpress.mit.edu/9780262048644/understanding-deep-learning/ (preferred)
 3. https://www.oreilly.com/library/view/ai-engineering/9781098166298/
+4. https://www.amazon.in/Understanding-Deep-Learning-Simon-Prince/dp/0262048647
+5. https://www.amazon.in/Dive-into-Learning-Aston-Zhang/dp/1009389432
+6. 
 
 ### Articles
 
