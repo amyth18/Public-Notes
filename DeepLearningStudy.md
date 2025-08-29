@@ -23,6 +23,7 @@
 3. https://2023.cmu-llms.org/calendar/
 4. https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-
 5. IIT-M LLM Course https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo
+6. https://web.stanford.edu/~jurafsky/slp3/
 
 ### Books
 1. https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/
