@@ -12,7 +12,7 @@
 4. https://www.amazon.in/Understanding-Deep-Learning-Simon-Prince/dp/0262048647
 5. https://www.amazon.in/Dive-into-Learning-Aston-Zhang/dp/1009389432
 6. https://www.manning.com/books/build-a-reasoning-model-from-scratch
-7. https://www.oreilly.com/library/view/ai-engineering/9781098166298/
+8. https://mlsysbook.ai/book/
 
 ### Articles
 
